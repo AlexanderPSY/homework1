@@ -1,0 +1,9 @@
+.container {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column
+}
+
+h1, h2 {
+    text-align: center
+}
